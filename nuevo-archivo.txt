@@ -1,0 +1,2 @@
+Ejercicio 2:
+Este ejercicio te permite practicar cómo clonar un repositorio existente, cómo crear una nueva rama a partir de la rama principal y cómo fusionar los cambios realizados en la nueva rama de vuelta a la rama principal.
